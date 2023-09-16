@@ -47,7 +47,7 @@ const Home = () => {
                                                 <Button style={{ width: "150px", background: "#ff3054db", border: "none" }} variant='outline-light'
                                                     className='mt-2 mb-2'
                                                     onClick={()=>send(element)}
-                                                >Add TO Cart</Button>
+                                                >Add To Cart</Button>
                                                 <img src={element.delimg} className='laimg' alt="" />
 
                                             </div>
